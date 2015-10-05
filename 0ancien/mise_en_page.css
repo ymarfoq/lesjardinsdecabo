@@ -1,0 +1,165 @@
+html{
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size:14px;
+color:#171717;
+}
+
+h1{
+color:#000000;
+font-size:30px;
+padding-left:8%;
+}
+
+h2{
+text-align:center;
+margin:0px;
+padding:7px;
+background-image: url(images/boutton_sombre_fin.png);
+font-size:14px;
+}
+
+h3{
+font-size:17px;
+}
+
+h4{
+font-size:15px;
+}
+
+p,li{
+margin:5px;
+text-align:left;
+font-size:14px;
+}
+
+#header_barre{
+background-image: url(images/degrade_horizontal.png);
+}
+
+.menu{
+color:#000000;
+text-align:center;
+text-decoration:none;
+overflow:hidden;
+}
+
+
+.boutton{
+background-image: url(images/boutton_sombre_fin.png);
+-webkit-transition: background-image 300ms ease 0ms;
+-moz-transition: background-image 300ms ease 0ms;
+-ms-transition: background-image 300ms ease 0ms;
+-o-transition: background-image 300ms ease 0ms;
+transition: background-image 300ms ease 0ms;
+text-align:center;
+cursor: pointer;
+font-size:15px;
+box-shadow:10px 10px 8px #aaa;
+}
+
+.boutton:hover{
+background-image: url(images/boutton_claire_fin.png);
+}
+
+#articles, #asides{
+vertical-align:text-top;
+}
+
+.article{
+font-size:15px;
+margin:50px 2% 5px 2%;
+overflow:hidden;
+background-image: url(images/degrade_vertical.png);
+border-radius:5px;
+box-shadow:10px 10px 8px #aaa;
+position:relative;
+}
+
+.aside{
+font-size:17px;
+margin:50px 2% 5px 2%;
+overflow:hidden;
+font-weight:bold;
+text-align:center;
+background-image: url(images/degrade_vertical.png);
+border-radius:3px;
+box-shadow: 10px 10px 8px #aaa;
+position:relative;
+}
+
+#roll{
+table-layout:fixed;
+display:block;
+position:relative;
+left:0px;
+}
+
+.descr{
+cursor:pointer;
+height:50px;
+overflow:hidden;
+padding-left:40px;
+background-image:url(images/fldrmin.png);
+background-position:8px 13px;
+background-repeat:no-repeat;
+}
+
+.calendrier{
+cursor:pointer;
+border-radius:5px;
+height:30px;
+border:1px black ridge;
+}
+
+.euro500{
+background-image:url(images/prix1.png);
+text-align:center;
+font-weight: bold;
+background-size: 100% 100%;
+}
+
+.euro700{
+background-image:url(images/prix2.png);
+text-align:center;
+font-weight: bold;
+background-size: 100% 100%;
+}
+
+.euro800{
+background-image:url(images/prix3.png);
+text-align:center;
+font-weight: bold;
+background-size: 100% 100%;
+}
+
+#prixaffiche{
+display:inline-block;
+}
+
+#reservation,#resa_complet{
+display:none;
+text-align:center;
+}
+
+.avert{
+font-size:12px;
+color:#C80D1B;
+display:none;
+font-weight: bold;
+}
+
+.close{
+font-size:14px;
+color:#800000;
+}
+
+.fleche{
+cursor: pointer;
+width:10%;
+text-align:center;
+}
+
+#foot{
+text-align:right;
+background-color:#0099CC;
+}

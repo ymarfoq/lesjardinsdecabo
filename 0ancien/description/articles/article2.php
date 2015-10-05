@@ -1,0 +1,2 @@
+<h2>Localisation</h2>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?q=35.662169,-5.290861&amp;num=1&amp;t=h&amp;hl=fr&amp;ie=UTF8&amp;ll=35.662178,-5.289059&amp;spn=0.004358,0.008583&amp;z=16&amp;output=embed"></iframe><br /><small><a href="https://maps.google.fr/maps?q=35.662169,-5.290861&amp;num=1&amp;t=h&amp;hl=fr&amp;ie=UTF8&amp;ll=35.662178,-5.289059&amp;spn=0.004358,0.008583&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
